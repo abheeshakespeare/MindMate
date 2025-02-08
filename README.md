@@ -1,7 +1,7 @@
-# MindMathe – AI-Powered Mental Health Chatbot
+# MindMate – AI-Powered Mental Health Chatbot
 
 ## 📌 Overview
-MindMathe is an AI-driven mental health chatbot designed to provide **emotional support, self-care tips, and mood tracking** in a **private, judgment-free space**. It aims to help users manage stress, anxiety, and emotional well-being through interactive conversations.
+MindMate is an AI-driven mental health chatbot designed to provide **emotional support, self-care tips, and mood tracking** in a **private, judgment-free space**. It aims to help users manage stress, anxiety, and emotional well-being through interactive conversations.
 
 ## 🎯 Features
 - 🗨️ **Empathetic AI Conversations** – Provides comforting responses and positive reinforcement.
